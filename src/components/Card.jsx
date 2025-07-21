@@ -27,7 +27,7 @@ const Card = () => {
               </div>
             )}
             <Link to={`/productView/${id}`}>
-            <button className="buy_Button">Buy</button>
+            <button className="buy_Button">View</button>
             </Link>
           </div>
         );
